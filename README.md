@@ -1,5 +1,9 @@
 ### Hi there 👋
+I'm Robert and I'm new to coding in all aspects. I'm currently learning the basics of Python through 100 days of python by dr. Angela Yu. 
 
+I've created this account to keep track of my projects and learning.
+
+I'm currently working on a dnd character manager as a side projects to implement things I'm covering in the course. Any feedback would be great! 
 <!--
 **3613robert/3613robert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
